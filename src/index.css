@@ -2,9 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
+*{
+    @apply m-0 p-0 box-border
+}
 body{
-    @apply w-full h-full
+    @apply w-full h-[100vh] bg-blue-400
 }
-.heading1{
-    @apply text-2xl text-red-400 tablet:text-blue-400 laptop:text-green-400 desktop:text-yellow-400 font-semibold
-}
+
