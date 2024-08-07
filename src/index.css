@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    @apply w-full h-full
+}
+.heading1{
+    @apply text-2xl text-red-400 tablet:text-blue-400 laptop:text-green-400 desktop:text-yellow-400 font-semibold
+}
