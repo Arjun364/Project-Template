@@ -6,6 +6,6 @@
     @apply m-0 p-0 box-border
 }
 body{
-    @apply w-full h-[100vh] bg-blue-400
+    @apply w-full h-[100vh] bg-blue-200
 }
 
