@@ -1507,6 +1507,7 @@ input:checked + .toggle-bg {
   opacity: 0;
 }
 
+
 .opacity-100 {
   opacity: 1;
 }
